@@ -1,16 +1,15 @@
 # rust-github-template
-Project template for simple Rust projects hosted on GitHub.
+
+Template for simple Rust projects hosted on GitHub.
 
 ## Settings
 
+The following settings were modified from the default settings in the **Settings** tab.
 
 - **General**
     - **Pull Requests**
         - Disabled **Allow merge commits**.
         - Disabled **Allow rebase merging**.
-
-        > This is so that only squash merging can be performed to main.
-
         - Enabled **Automatically delete head branches**.
 - **Branches**
     - **Branch protection rules**
