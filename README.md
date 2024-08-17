@@ -1,4 +1,4 @@
-# rust-github-template
+# TODO_CRATE_NAME
 
 [<img alt="github" src="https://img.shields.io/badge/github-TODO_USERNAME/TODO_REPO-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/TODO_USERNAME/TODO_REPO)
 [<img alt="crates.io" src="https://img.shields.io/crates/v/TODO_CRATE_NAME.svg?style=for-the-badge&color=fc8d62&logo=rust" height="20">](https://crates.io/crates/TODO_CRATE_NAME)

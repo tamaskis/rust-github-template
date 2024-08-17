@@ -3,6 +3,13 @@
 version = 3
 
 [[package]]
+name = "TODO_CRATE_NAME"
+version = "0.1.0"
+dependencies = [
+ "numtest",
+]
+
+[[package]]
 name = "autocfg"
 version = "1.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -24,11 +31,4 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "ef713272aa80de5d00707cc1d9de867cfefdf4d607133567561c79478f6034ef"
 dependencies = [
  "num-traits",
-]
-
-[[package]]
-name = "rust-github-template"
-version = "0.1.0"
-dependencies = [
- "numtest",
 ]
