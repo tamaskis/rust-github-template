@@ -1,0 +1,17 @@
+[package]
+name = "rust-github-template"
+version = "0.1.0"
+authors = ["Tamas Kis"]
+edition = "2021"
+description = "Template for simple Rust projects hosted on GitHub."
+documentation = "https://docs.rs/rust-github-template"
+repository = "https://github.com/tamaskis/rust-github-template"
+license = "MIT OR Apache-2.0"
+
+exclude = ["Cargo.lock", ".github/", ".vscode/", ".gitignore"]
+
+[package.metadata.docs.rs]
+rustdoc-args = [ "--html-in-header", "src/docs-header.html" ]
+
+[dev-dependencies]
+numtest = "0.1.3"

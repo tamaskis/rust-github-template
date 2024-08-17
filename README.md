@@ -1,26 +1,34 @@
 # rust-github-template
 
+[<img alt="github" src="https://img.shields.io/badge/github-tamaskis/numtest-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/TODO)
+[<img alt="crates.io" src="https://img.shields.io/crates/v/numtest.svg?style=for-the-badge&color=fc8d62&logo=rust" height="20">](https://crates.io/crates/TODO)
+[<img alt="docs.rs" src="https://img.shields.io/badge/docs.rs-numtest-66c2a5?style=for-the-badge&labelColor=555555&logo=docs.rs" height="20">](https://docs.rs/TODO)
+
 Template for simple Rust projects hosted on GitHub.
 
-## Settings
+## Documentation
 
-The following settings were modified from the default settings in the **Settings** tab.
+Please see https://docs.rs/TODO.
 
-- **General**
-    - **Pull Requests**
-        - Disabled **Allow merge commits**.
-        - Disabled **Allow rebase merging**.
-        - Enabled **Automatically delete head branches**.
-- **Branches**
-    - **Branch protection rules**
-        1. Clicked on **Add branch protection rule**.
-        1. Set **Branch name pattern** to `main`.
-        1. Enabled **Require a pull request before merging.**
-            1. Enabled **Dismiss stale pull request approvals when new commits are pushed**
-            1. Enabled **Require review from Code Owners**.
-            1. Enabled **Require approval of the most recent reviewable push**.
-        1. Enabled **Require status checks to pass before merging**.
-            1. Enabled **Require branches to be up to date before merging**.
-        1. Enabled **Require conversation resolution before merging**.
-        1. Enabled **Require linear history**.
-        1. Enabled **Lock branch**.
+## Examples.
+
+Simple examples demonstrating the functionality of the package can be included here.
+
+```rust
+...
+```
+
+#### License
+
+<sup>
+Licensed under either of <a href="LICENSE-APACHE">Apache License, Version 2.0</a> or 
+<a href="LICENSE-MIT">MIT license</a> at your option.
+</sup>
+
+<br>
+
+<sub>
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in
+this crate by you, as defined in the Apache-2.0 license, shall be dual licensed as above, without
+any additional terms or conditions.
+</sub>
