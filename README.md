@@ -1,16 +1,16 @@
 # rust-github-template
 
-[<img alt="github" src="https://img.shields.io/badge/github-tamaskis/numtest-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/TODO)
-[<img alt="crates.io" src="https://img.shields.io/crates/v/numtest.svg?style=for-the-badge&color=fc8d62&logo=rust" height="20">](https://crates.io/crates/TODO)
-[<img alt="docs.rs" src="https://img.shields.io/badge/docs.rs-numtest-66c2a5?style=for-the-badge&labelColor=555555&logo=docs.rs" height="20">](https://docs.rs/TODO)
+[<img alt="github" src="https://img.shields.io/badge/github-TODO_USERNAME/TODO_REPO-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/TODO_USERNAME/TODO_REPO)
+[<img alt="crates.io" src="https://img.shields.io/crates/v/TODO_CRATE_NAME.svg?style=for-the-badge&color=fc8d62&logo=rust" height="20">](https://crates.io/crates/TODO_CRATE_NAME)
+[<img alt="docs.rs" src="https://img.shields.io/badge/docs.rs-TODO_CRATE_NAME-66c2a5?style=for-the-badge&labelColor=555555&logo=docs.rs" height="20">](https://docs.rs/TODO_CRATE_NAME)
 
 Template for simple Rust projects hosted on GitHub.
 
 ## Documentation
 
-Please see https://docs.rs/TODO.
+Please see https://docs.rs/TODO_CRATE_NAME.
 
-## Examples.
+## Examples
 
 Simple examples demonstrating the functionality of the package can be included here.
 
