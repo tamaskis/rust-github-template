@@ -1,5 +1,5 @@
 [package]
-name = "rust-github-template"
+name = "TODO_CRATE_NAME"
 version = "0.1.0"
 authors = ["Tamas Kis"]
 edition = "2021"
