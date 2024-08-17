@@ -4,8 +4,8 @@ version = "0.1.0"
 authors = ["Tamas Kis"]
 edition = "2021"
 description = "Template for simple Rust projects hosted on GitHub."
-documentation = "https://docs.rs/rust-github-template"
-repository = "https://github.com/tamaskis/rust-github-template"
+documentation = "https://docs.rs/TODO_CRATE_NAME"
+repository = "https://github.com/TODO_USERNAME/TODO_REPO"
 license = "MIT OR Apache-2.0"
 
 exclude = ["Cargo.lock", ".github/", ".vscode/", ".gitignore"]
