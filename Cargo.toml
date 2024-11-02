@@ -1,5 +1,5 @@
 [package]
-name = "TODO_CRATE_NAME"
+name = "todo-crate-name"
 version = "0.1.0"
 authors = ["Tamas Kis"]
 edition = "2021"
@@ -14,4 +14,4 @@ exclude = ["Cargo.lock", ".github/", ".vscode/", ".gitignore"]
 rustdoc-args = [ "--html-in-header", "src/docs-header.html" ]
 
 [dev-dependencies]
-numtest = "0.1.3"
+numtest = "0.1.6"
