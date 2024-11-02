@@ -12,10 +12,10 @@ Please see https://docs.rs/TODO_CRATE_NAME.
 
 ## Examples
 
-Simple examples demonstrating the functionality of the package can be included here.
+TODO Simple examples demonstrating the functionality of the package can be included here.
 
 ```rust
-...
+// TODO
 ```
 
 #### License
